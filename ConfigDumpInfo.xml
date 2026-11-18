@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Оборудование" id="ef560f56-a130-4546-94f5-4c83c79caad9" configVersion="3b33de1bec1ee443b3ef35f06c0fc76500000000">
+			<Metadata name="Catalog.Оборудование.Attribute.ИнвентарныйНомер" id="f651fb00-ce01-418f-ba09-4d88b9b24c8c"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="eef54a4f-e48d-4d18-b889-be94d4832e42" configVersion="255983168aa5d04cb6d6d29461615d6000000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="5847ed0c-afc1-400a-81d6-fb73e123bfb7"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="31491366-5db7-4906-9907-5ea6173c5b65" configVersion="d6ce15068b87774eacb38196172fd19600000000"/>
+		<Metadata name="Document.ЗаявкаНаРемонт" id="70acde43-3d8c-48c5-b67f-c8b828be2541" configVersion="8eac40ff89110c458f5647a9730f58fa00000000">
+			<Metadata name="Document.ЗаявкаНаРемонт.Attribute.Оборудование" id="07b61fba-b9b9-4cab-b19a-c8dfa91bb369"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.Attribute.Мастер" id="5365824a-541e-4b6a-b6ef-ba3ecb436650"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.Attribute.Статус" id="57f2a004-03bb-4a0e-9480-0ce60b6dc28d"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.Attribute.СуммаИтого" id="5e7777c3-d311-4c83-a9ad-252d6af95927"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.TabularSection.Работы.Attribute.Стоимость" id="78f0e331-b793-495b-ad3d-a642e3dc86e5"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.Attribute.Заявитель" id="8457c580-9a9e-4109-8256-83e2a3b0bdbb"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.TabularSection.Работы.Attribute.Часы" id="9f4f328a-3de7-4211-b88a-e748c8a2b214"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.Attribute.ОписаниеПроблемы" id="a1ad2ca3-5304-4eb7-abd2-9c68324a891c"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.TabularSection.Работы.Attribute.ОписаниеРаботы" id="b8b29fff-bfa3-406e-bfa1-c0e143d640e5"/>
+			<Metadata name="Document.ЗаявкаНаРемонт.TabularSection.Работы" id="ee419ed5-0be1-4514-8305-e1b51db01148"/>
+		</Metadata>
+		<Metadata name="Document.ЗаявкаНаРемонт.Form.ФормаДокумента" id="ef9a1c6f-1e30-4e87-802f-eb9cd6351a7c" configVersion="05ec4765a66d4e43ae41009e2d0f8bcd00000000"/>
+		<Metadata name="Document.ЗаявкаНаРемонт.Form.ФормаДокумента.Form" id="ef9a1c6f-1e30-4e87-802f-eb9cd6351a7c.0" configVersion="73fdecc51811f2419362356c86ad441900000000"/>
+		<Metadata name="Document.ЗаявкаНаРемонт.ObjectModule" id="70acde43-3d8c-48c5-b67f-c8b828be2541.0" configVersion="30fcbc14a106ef439285f45806c2a22e00000000"/>
+		<Metadata name="Enum.СтатусыЗаявки" id="6875f7ce-9158-42ee-b5a3-5ad873d45e92" configVersion="b21e1c6b1e332840a13e9e57830a43c900000000">
+			<Metadata name="Enum.СтатусыЗаявки.EnumValue.Выполнена" id="219ba780-34be-416d-a6f6-65c07da792f3"/>
+			<Metadata name="Enum.СтатусыЗаявки.EnumValue.ВРаботе" id="4ad89a14-3f03-49f7-a0a5-f7b0b26cd8d0"/>
+			<Metadata name="Enum.СтатусыЗаявки.EnumValue.Отклонена" id="68123d33-9356-47a4-8907-e59bb7f1e87b"/>
+			<Metadata name="Enum.СтатусыЗаявки.EnumValue.Новая" id="ecb346f0-685d-4473-acc7-e7abb021493e"/>
+		</Metadata>
+		<Metadata name="InformationRegister.СтатусыЗаявок" id="994e31d7-5660-4ea0-bde9-bb9f1fb65821" configVersion="3ea126a2989e8b4fb711df525a7fc3b800000000">
+			<Metadata name="InformationRegister.СтатусыЗаявок.Resource.Статус" id="0f1e6ba4-8aed-439e-be88-93fa3f4c85b5"/>
+			<Metadata name="InformationRegister.СтатусыЗаявок.Dimension.Заявка" id="505e2d88-8b13-41cb-8ebb-0f0ae7e43288"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="35a49242-1965-41ab-85d4-5657da59fad5" configVersion="b220ab5117dc7441a7e768fd7b74176500000000"/>
+		<Metadata name="Report.ЗаявкиПоМастерам" id="d3b0c127-6080-41d8-b830-a768fc4712ac" configVersion="c8e35c65999d14418b8a8a921f9af3f100000000"/>
+		<Metadata name="Report.ЗаявкиПоМастерам.Template.ОсновнаяСхемаКомпоновкиДанных" id="b8ca2a21-664d-4eeb-9c25-3f5e1258d362" configVersion="779ec420be96a943a122b894bad3673300000000"/>
+		<Metadata name="Report.ЗаявкиПоМастерам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b8ca2a21-664d-4eeb-9c25-3f5e1258d362.0" configVersion="abc22a5cc71dda499bbacaadb10dda8200000000"/>
+		<Metadata name="Report.ЗаявкиПоМастерам.Template.ОсновнаяСхемаКомпоновкиДанных1" id="dccaf4a8-2922-417d-b032-3945bea9bacb" configVersion="eebc61ea2b0fe247bc1f011bca1c4f0b00000000"/>
+		<Metadata name="Report.ЗаявкиПоМастерам.Template.ОсновнаяСхемаКомпоновкиДанных1.Template" id="dccaf4a8-2922-417d-b032-3945bea9bacb.0" configVersion="3aa6cebbe840464c82fa08e0575822a900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
